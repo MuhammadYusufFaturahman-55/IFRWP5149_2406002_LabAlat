@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="wR-d8Y9ObbL69h7zoDt0">
+    <mxGraphModel dx="645" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vWCLmmkkPoE8KMon6y3Q-12" edge="1" parent="1" source="vWCLmmkkPoE8KMon6y3Q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vWCLmmkkPoE8KMon6y3Q-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWCLmmkkPoE8KMon6y3Q-5" parent="1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="365" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vWCLmmkkPoE8KMon6y3Q-13" edge="1" parent="1" source="vWCLmmkkPoE8KMon6y3Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vWCLmmkkPoE8KMon6y3Q-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWCLmmkkPoE8KMon6y3Q-6" parent="1" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="Buka daftar peralatan" vertex="1">
+          <mxGeometry height="70" width="140" x="310" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vWCLmmkkPoE8KMon6y3Q-7" edge="1" parent="1" source="vWCLmmkkPoE8KMon6y3Q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="vWCLmmkkPoE8KMon6y3Q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWCLmmkkPoE8KMon6y3Q-14" edge="1" parent="1" source="vWCLmmkkPoE8KMon6y3Q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vWCLmmkkPoE8KMon6y3Q-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWCLmmkkPoE8KMon6y3Q-8" parent="1" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="Lihat informasi ketersediaan" vertex="1">
+          <mxGeometry height="70" width="140" x="310" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vWCLmmkkPoE8KMon6y3Q-11" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="365" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
