@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="wR-d8Y9ObbL69h7zoDt0">
+    <mxGraphModel dx="1245" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MxxVCuEO4iCYjaNr9-ni-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;height=30;fontSize=7;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Sistem Laboratorium&lt;/font&gt;" vertex="1">
+          <mxGeometry height="510" width="490" x="80" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MxxVCuEO4iCYjaNr9-ni-5" parent="MxxVCuEO4iCYjaNr9-ni-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Kelola jadwal kuliah&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="204" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="MxxVCuEO4iCYjaNr9-ni-13" parent="MxxVCuEO4iCYjaNr9-ni-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Lihat Jadwal Kuliah&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="84" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxxVCuEO4iCYjaNr9-ni-15" edge="1" parent="MxxVCuEO4iCYjaNr9-ni-1" source="MxxVCuEO4iCYjaNr9-ni-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="MxxVCuEO4iCYjaNr9-ni-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxxVCuEO4iCYjaNr9-ni-2" parent="MxxVCuEO4iCYjaNr9-ni-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="&lt;div&gt;Mahasiswa&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MxxVCuEO4iCYjaNr9-ni-14" edge="1" parent="MxxVCuEO4iCYjaNr9-ni-1" source="MxxVCuEO4iCYjaNr9-ni-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="MxxVCuEO4iCYjaNr9-ni-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxxVCuEO4iCYjaNr9-ni-12" edge="1" parent="1" source="MxxVCuEO4iCYjaNr9-ni-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="MxxVCuEO4iCYjaNr9-ni-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxxVCuEO4iCYjaNr9-ni-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Petugas&lt;br&gt;Laboran" vertex="1">
+          <mxGeometry height="60" width="30" x="650" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
