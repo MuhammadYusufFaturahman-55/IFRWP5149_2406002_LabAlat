@@ -21,3 +21,11 @@ Kelas           : Informatika A
 Mata Kuliah     : Praktikum Analisis & Desain Berorientasi Objek
 Pertemuan       : 03 (Use Case Diagram dan Use Case Description)
 Kakas Pemodelan : Draw.io
+
+
+Nama            : Muhammad Yusuf Faturahman
+NIM             : 2406002
+Kelas           : Informatika A
+Mata Kuliah     : Praktikum Analisis & Desain Berorientasi Objek
+Pertemuan       : 04 (USE CASE DIAGRAM LANJUTAN: GENERALIZATION DAN COLLABORATION)
+Kakas Pemodelan : Draw.io
