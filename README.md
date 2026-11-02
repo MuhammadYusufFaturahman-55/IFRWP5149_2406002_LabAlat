@@ -1,4 +1,4 @@
-# Rekapitulasi Identitas Praktikum
+# Identitas Praktikum
 **Mata Kuliah:** Praktikum Analisis & Desain Berorientasi Objek  
 **Mahasiswa:** Muhammad Yusuf Faturahman (NIM: 2406002) — Kelas Informatika A  
 
@@ -61,7 +61,7 @@ NIM             : 2406002
 Kelas           : Informatika A
 Mata Kuliah     : Praktikum Analisis & Desain Berorientasi Objek
 Pertemuan       : 03 (Use Case Diagram dan Use Case Description)
-Kakas Pemodelan : Draw.io
+Kakas Pemodelan : Draw.io / VS Code
 ```
 
 ---
@@ -76,12 +76,12 @@ NIM             : 2406002
 Kelas           : Informatika A
 Mata Kuliah     : Praktikum Analisis & Desain Berorientasi Objek
 Pertemuan       : 04 (USE CASE DIAGRAM LANJUTAN: GENERALIZATION DAN COLLABORATION)
-Kakas Pemodelan : Draw.io
+Kakas Pemodelan : Draw.io / VS Code
 ```
 
 ---
 
-### 🟢 Pertemuan 05 *(Pertemuan Saat Ini)*
+### 🔵 Pertemuan 05
 > **Materi:** Skenario Use Case: Dari Diagram ke Langkah Kegiatan  
 > **Kakas Pemodelan:** Draw.io / VS Code  
 
@@ -96,7 +96,22 @@ Kakas Pemodelan : Draw.io / VS Code
 
 ---
 
-### 📊 Ringkasan Matriks Pertemuan
+### 🟢 Pertemuan 06 
+> **Materi:** Activity Diagram: Dari Skenario ke Alur Aktivitas  
+> **Kakas Pemodelan:** Draw.io / VS Code   
+
+```text
+Nama            : Muhammad Yusuf Faturahman
+NIM             : 2406002
+Kelas           : Informatika A
+Mata Kuliah     : Praktikum Analisis & Desain Berorientasi Objek
+Pertemuan       : 06 (ACTIVITY DIAGRAM: DARI SKENARIO KE ALUR AKTIVITAS)
+Kakas Pemodelan : Draw.io / VS Code 
+```
+
+---
+
+## 📊 Ringkasan Matriks Pertemuan
 
 | Pertemuan | Modul / Topik Utama | Kakas Utama |
 | :---: | :--- | :--- |
@@ -105,3 +120,4 @@ Kakas Pemodelan : Draw.io / VS Code
 | **P03** | Use Case Diagram & Use Case Description | Draw.io |
 | **P04** | Use Case Diagram Lanjutan (Generalization & Collaboration) | Draw.io |
 | **P05** | Skenario Use Case: Dari Diagram ke Langkah Kegiatan | Draw.io / VS Code |
+| **P06** | Activity Diagram: Dari Skenario ke Alur Aktivitas | Draw.io / VS Code |
