@@ -117,11 +117,3 @@ IFRWP5149_2406002_LabAlat/
 - [x] Berkas pertemuan sebelumnya (P03, P04, P05) tetap dipertahankan dan tidak ditimpa.
 
 ---
-
-**Garut, 2 November 2026**  
-**Mahasiswa Praktikan,**
-
-*ttd.*
-
-**(Muhammad Yusuf Faturahman)**  
-NIM. 2406002
