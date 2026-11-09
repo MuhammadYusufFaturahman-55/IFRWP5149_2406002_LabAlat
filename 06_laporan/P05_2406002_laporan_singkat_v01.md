@@ -50,7 +50,7 @@ Skenario Use Case adalah uraian langkah demi langkah interaksi antara aktor dan 
 | `<<extend>>` | Cabang bersyarat pada Skenario Alternative yang dilengkapi `condition` dan `extension point` serta merujuk ke tabel use case tambahan. |
 | **Generalization Aktor** | Skenario ditulis satu kali atas nama Aktor Umum (misal: *Peminjam* berlaku untuk *Mahasiswa* & *Dosen*). Catatan aktor khusus ditambahkan jika ada pembeda. |
 | **Generalization Use Case** | Use case umum (*Kelola Data*) memuat perilaku bersama. Use case khusus (*Tambah*, *Ubah*, *Hapus*) hanya memuat perilaku pembeda dan merujuk ke use case umum. |
-| **Collaboration** | **Tidak** dibuatkan langkah/tabel sendiri. Cukup dicantumkan pada catatan keterangan tabel use case yang direalisasikannya. |
+| **Collaboration** | **Tidak** dibuatkan langkah/tabel sendiri. Cukup dicantumkan pada catatan keterangan tabel use case yang direalisasikannnya.. |
 
 ---
 

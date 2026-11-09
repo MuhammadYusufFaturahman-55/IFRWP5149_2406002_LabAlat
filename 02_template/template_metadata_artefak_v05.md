@@ -6,7 +6,7 @@ Sumber kebutuhan         : LAB-R01 s.d. LAB-R11 & SIA-R07 s.d. SIA-R12 (Diagram 
 Jenis/status             : Skenario Use Case & Telaah Skenario
 Kakas                    : draw.io / VS Code
 Pembuat                  : Muhammad Yusuf Faturahman 2406002
-Versi dan tanggal        : v01 — 02 November 2026
+Versi dan tanggal        : v01 — 02 11 2026
 Asumsi                   : Berkas diagram Pertemuan 4 (P04) digunakan sebagai acuan dasar dan tidak diubah isinya.
 Pemeriksaan              : Kesesuaian 12 skenario LAB dan 7 skenario SIA terhadap diagram acuan P04.
 Riwayat revisi           : v01 — Inisialisasi awal skenario dan lembar telaah P05.

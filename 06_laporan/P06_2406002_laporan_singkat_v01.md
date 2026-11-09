@@ -114,6 +114,6 @@ IFRWP5149_2406002_LabAlat/
 - [x] Setiap *action* tertelusur ke tabel skenario P05 dengan penamaan kata kerja + objek.
 - [x] Action *Periksa kelengkapan aksesori peralatan* pada `LAB-UC11` telah diberi label keterangan `(unsur proses baru)`.
 - [x] Penamaan berkas sumber `.drawio` dan gambar ekspor `.png` konsisten menggunakan `v01`.
-- [x] Berkas pertemuan sebelumnya (P03, P04, P05) tetap dipertahankan dan tidak ditimpa.
+- [x] Berkas pertemuan sebelumnya (P03, P04, P05) tetap dipertahankan dan tidak ditimpa. 
 
 ---

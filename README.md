@@ -109,6 +109,7 @@ Pertemuan       : 06 (ACTIVITY DIAGRAM: DARI SKENARIO KE ALUR AKTIVITAS)
 Kakas Pemodelan : Draw.io / VS Code 
 ```
 
+pertemuan 7 assesment
 ---
 
 ## 📊 Ringkasan Matriks Pertemuan

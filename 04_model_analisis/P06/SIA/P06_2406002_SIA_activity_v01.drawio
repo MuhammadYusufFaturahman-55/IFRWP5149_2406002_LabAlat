@@ -1,28 +1,28 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="nX5oIqmmCZ26I9SYC_Wa">
-        <mxGraphModel dx="1667" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1873" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="lane_h0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;fontStyle=1;fontSize=12;connectable=0;" value="Dosen" vertex="1">
+                <mxCell id="lane_h0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;connectable=0;" value="Dosen" vertex="1">
                     <mxGeometry height="30" width="240" x="270" y="220" as="geometry"/>
                 </mxCell>
                 <mxCell id="lane_b0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;connectable=0;" value="" vertex="1">
                     <mxGeometry height="1200" width="240" x="270" y="250" as="geometry"/>
                 </mxCell>
-                <mxCell id="lane_h1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;fontStyle=1;fontSize=12;connectable=0;" value="Sistem" vertex="1">
+                <mxCell id="lane_h1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;connectable=0;" value="Sistem" vertex="1">
                     <mxGeometry height="30" width="440" x="510" y="220" as="geometry"/>
                 </mxCell>
                 <mxCell id="lane_b1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;connectable=0;" value="" vertex="1">
                     <mxGeometry height="1200" width="440" x="510" y="250" as="geometry"/>
                 </mxCell>
-                <mxCell id="lane_h2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;fontStyle=1;fontSize=12;connectable=0;" value="Admin Akademik" vertex="1">
+                <mxCell id="lane_h2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;connectable=0;" value="Admin Akademik" vertex="1">
                     <mxGeometry height="30" width="240" x="950" y="220" as="geometry"/>
                 </mxCell>
                 <mxCell id="lane_b2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;connectable=0;" value="" vertex="1">
                     <mxGeometry height="1200" width="240" x="950" y="250" as="geometry"/>
                 </mxCell>
-                <mxCell id="lane_h3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;fontStyle=1;fontSize=12;connectable=0;" value="Mahasiswa" vertex="1">
+                <mxCell id="lane_h3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;connectable=0;" value="Mahasiswa" vertex="1">
                     <mxGeometry height="30" width="240" x="1190" y="220" as="geometry"/>
                 </mxCell>
                 <mxCell id="lane_b3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;connectable=0;" value="" vertex="1">

@@ -15,7 +15,7 @@
 | Extend                    | SIA-UC05 Unduh bukti pengajuan KRS jika [mahasiswa memilih unduh] |
 | Aturan Bisnis/Asumsi      | Pengajuan yang tersimpan belum otomatis disetujui; batas SKS dan modul pembayaran di luar cakupan ini |
 
-Alur Utama (SIA-UC03)
+Alur Utama (SIA-UC03) 
 | Langkah | Tindakan Mahasiswa                    | Respons Sistem |
 | 1       | Membuka menu pengajuan KRS            | Menampilkan daftar mata kuliah yang dapat dipilih |
 | 2       | Memilih mata kuliah yang akan diambil | Menampung daftar pilihan mata kuliah |

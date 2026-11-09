@@ -9,7 +9,7 @@ Pascakondisi berhasil      Pengajuan tersimpan dengan nomor dan status Menunggu
 keputusan
 Pascakondisi gagal         Tidak ada pengajuan baru yang berhasil tersimpan
 Include                    LAB-UC04 — Periksa ketersediaan
-Extension point            Bukti pengajuan tersedia, pada langkah 6
+Extension point            Bukti pengajuan tersedia, pada langkah 6.
 Extend                     LAB-UC05 jika [mahasiswa memilih cetak]
 
 Alur utama:
